@@ -212,16 +212,16 @@
     <g>
       <rect x="60" y="674" width="221" height="30" rx="15" fill="#247bff" fill-opacity="0.08" stroke="#247bff" stroke-opacity="0.3"/>
       <circle cx="75" cy="689" r="2.6" fill="#247bff"/>
-      <text x="84" y="694" font-size="16" fill="#dbe6f7">Responsive Web Design</text>
+      <text x="84" y="694" font-size="10" fill="#dbe6f7">Responsive Web Design</text>
       <rect x="60" y="712" width="159" height="30" rx="15" fill="#247bff" fill-opacity="0.08" stroke="#247bff" stroke-opacity="0.3"/>
       <circle cx="75" cy="727" r="2.6" fill="#247bff"/>
-      <text x="84" y="732" font-size="16" fill="#dbe6f7">UI Development</text>
+      <text x="84" y="732" font-size="10" fill="#dbe6f7">UI Development</text>
       <rect x="60" y="750" width="256" height="30" rx="15" fill="#247bff" fill-opacity="0.08" stroke="#247bff" stroke-opacity="0.3"/>
       <circle cx="75" cy="765" r="2.6" fill="#247bff"/>
-      <text x="84" y="770" font-size="16" fill="#dbe6f7">Cross Browser Compatibility</text>
+      <text x="84" y="770" font-size="10" fill="#dbe6f7">Cross Browser Compatibility</text>
       <rect x="60" y="788" width="183" height="30" rx="15" fill="#247bff" fill-opacity="0.08" stroke="#247bff" stroke-opacity="0.3"/>
       <circle cx="75" cy="803" r="2.6" fill="#247bff"/>
-      <text x="84" y="808" font-size="16" fill="#dbe6f7">Responsive Design</text>
+      <text x="84" y="808" font-size="10" fill="#dbe6f7">Responsive Design</text>
     </g>
 
     <!-- column A · design -->
@@ -231,10 +231,10 @@
     <g>
       <rect x="60" y="860" width="85" height="30" rx="15" fill="#b07cff" fill-opacity="0.08" stroke="#b07cff" stroke-opacity="0.3"/>
       <circle cx="75" cy="875" r="2.6" fill="#b07cff"/>
-      <text x="84" y="880" font-size="16" fill="#dbe6f7">Canva</text>
+      <text x="84" y="880" font-size="10" fill="#dbe6f7">Canva</text>
       <rect x="154" y="860" width="154" height="30" rx="15" fill="#b07cff" fill-opacity="0.08" stroke="#b07cff" stroke-opacity="0.3"/>
       <circle cx="169" cy="875" r="2.6" fill="#b07cff"/>
-      <text x="178" y="880" font-size="16" fill="#dbe6f7">Adobe Express</text>
+      <text x="178" y="880" font-size="10" fill="#dbe6f7">Adobe Express</text>
     </g>
 
     <!-- column A · ai tools -->
@@ -244,13 +244,13 @@
     <g>
       <rect x="60" y="928" width="104" height="30" rx="15" fill="#ffd84d" fill-opacity="0.08" stroke="#ffd84d" stroke-opacity="0.3"/>
       <circle cx="75" cy="943" r="2.6" fill="#ffd84d"/>
-      <text x="84" y="948" font-size="16" fill="#dbe6f7">ChatGPT</text>
+      <text x="84" y="948" font-size="10" fill="#dbe6f7">ChatGPT</text>
       <rect x="173" y="928" width="90" height="30" rx="15" fill="#ffd84d" fill-opacity="0.08" stroke="#ffd84d" stroke-opacity="0.3"/>
       <circle cx="188" cy="943" r="2.6" fill="#ffd84d"/>
-      <text x="197" y="948" font-size="16" fill="#dbe6f7">Gemini</text>
+      <text x="197" y="948" font-size="10" fill="#dbe6f7">Gemini</text>
       <rect x="60" y="966" width="166" height="30" rx="15" fill="#ffd84d" fill-opacity="0.08" stroke="#ffd84d" stroke-opacity="0.3"/>
       <circle cx="75" cy="981" r="2.6" fill="#ffd84d"/>
-      <text x="84" y="986" font-size="16" fill="#dbe6f7">Google AI Studio</text>
+      <text x="84" y="986" font-size="10" fill="#dbe6f7">Google AI Studio</text>
     </g>
 
     <!-- column B · optimization -->
@@ -260,13 +260,13 @@
     <g>
       <rect x="344" y="674" width="170" height="30" rx="15" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-opacity="0.3"/>
       <circle cx="359" cy="689" r="2.6" fill="#34d399"/>
-      <text x="368" y="694" font-size="16" fill="#dbe6f7">SEO Optimization</text>
+      <text x="368" y="694" font-size="10" fill="#dbe6f7">SEO Optimization</text>
       <rect x="344" y="712" width="240" height="30" rx="15" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-opacity="0.3"/>
       <circle cx="359" cy="727" r="2.6" fill="#34d399"/>
-      <text x="368" y="732" font-size="16" fill="#dbe6f7">Performance Optimization</text>
+      <text x="368" y="732" font-size="10" fill="#dbe6f7">Performance Optimization</text>
       <rect x="344" y="750" width="150" height="30" rx="15" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-opacity="0.3"/>
       <circle cx="359" cy="765" r="2.6" fill="#34d399"/>
-      <text x="368" y="770" font-size="16" fill="#dbe6f7">Motion Design</text>
+      <text x="368" y="770" font-size="10" fill="#dbe6f7">Motion Design</text>
     </g>
 
     <!-- column B · developer tools -->
@@ -276,13 +276,13 @@
     <g>
       <rect x="344" y="822" width="102" height="30" rx="15" fill="#f0a500" fill-opacity="0.08" stroke="#f0a500" stroke-opacity="0.3"/>
       <circle cx="359" cy="837" r="2.6" fill="#f0a500"/>
-      <text x="368" y="842" font-size="16" fill="#dbe6f7">VS Code</text>
+      <text x="368" y="842" font-size="10" fill="#dbe6f7">VS Code</text>
       <rect x="455" y="822" width="60" height="30" rx="15" fill="#f0a500" fill-opacity="0.08" stroke="#f0a500" stroke-opacity="0.3"/>
       <circle cx="470" cy="837" r="2.6" fill="#f0a500"/>
-      <text x="479" y="842" font-size="16" fill="#dbe6f7">Git</text>
+      <text x="479" y="842" font-size="10" fill="#dbe6f7">Git</text>
       <rect x="344" y="860" width="170" height="30" rx="15" fill="#f0a500" fill-opacity="0.08" stroke="#f0a500" stroke-opacity="0.3"/>
       <circle cx="359" cy="875" r="2.6" fill="#f0a500"/>
-      <text x="368" y="880" font-size="16" fill="#dbe6f7">Chrome DevTools</text>
+      <text x="368" y="880" font-size="10" fill="#dbe6f7">Chrome DevTools</text>
     </g>
 
     <!-- column B · deployment -->
@@ -292,16 +292,16 @@
     <g>
       <rect x="344" y="928" width="86" height="30" rx="15" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.3"/>
       <circle cx="359" cy="943" r="2.6" fill="#38bdf8"/>
-      <text x="368" y="948" font-size="16" fill="#dbe6f7">Vercel</text>
+      <text x="368" y="948" font-size="10" fill="#dbe6f7">Vercel</text>
       <rect x="439" y="928" width="90" height="30" rx="15" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.3"/>
       <circle cx="454" cy="943" r="2.6" fill="#38bdf8"/>
-      <text x="463" y="948" font-size="16" fill="#dbe6f7">Netlify</text>
+      <text x="463" y="948" font-size="10" fill="#dbe6f7">Netlify</text>
       <rect x="344" y="966" width="94" height="30" rx="15" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.3"/>
       <circle cx="359" cy="981" r="2.6" fill="#38bdf8"/>
-      <text x="368" y="986" font-size="16" fill="#dbe6f7">Render</text>
+      <text x="368" y="986" font-size="10" fill="#dbe6f7">Render</text>
       <rect x="444" y="966" width="142" height="30" rx="15" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.3"/>
       <circle cx="459" cy="981" r="2.6" fill="#38bdf8"/>
-      <text x="468" y="986" font-size="16" fill="#dbe6f7">GitHub Pages</text>
+      <text x="468" y="986" font-size="10" fill="#dbe6f7">GitHub Pages</text>
     </g>
     </g>
   </g>
